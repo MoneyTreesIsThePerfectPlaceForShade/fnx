@@ -1,0 +1,33 @@
+{
+  "name": "fnx",
+  "version": "0.0.0",
+  "description": "frontend experimental ui kit",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoneyTreesIsThePerfectPlaceForShade/fnx.git"
+  },
+  "keywords": [
+    "ui",
+    "kit"
+  ],
+  "author": "Matthew Skomorokhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoneyTreesIsThePerfectPlaceForShade/fnx/issues"
+  },
+  "homepage": "https://github.com/MoneyTreesIsThePerfectPlaceForShade/fnx#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}
